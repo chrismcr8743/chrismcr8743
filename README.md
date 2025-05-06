@@ -5,7 +5,7 @@
   Cameron Chrisman
   <img
     src="https://raw.githubusercontent.com/chrismcr8743/chrismcr8743/main/assets/fighter-jet.gif"
-    height="50"
+    height="30"
     style="vertical-align:middle;"
     alt="fighter jet animation"
 />
@@ -16,19 +16,6 @@
 <h2 align="left">GitHub Stats</h2>
 
 ![chrismcr8743's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chrismcr8743&theme=default&show_icons=true&hide_border=false&layout=compact)
-
-<h2 align="left">Tools & Technologies</h2>
-
-<div align="left">
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="52" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="anaconda logo"  />
-  <img width="52" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="52" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="40" alt="matlab logo"  />
-</div>
 
 <h2 align="left">Links</h2>
 
