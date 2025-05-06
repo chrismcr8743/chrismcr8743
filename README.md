@@ -1,5 +1,6 @@
 ![Visitors](https://komarev.com/ghpvc/?username=chrismcr8743&color=blue)
 
+<img src="https://github.com/chrismcr8743/chrismcr8743/blob/main/assets/fighter-jet.gif?raw=true" height="100" />
 
 <h2 align="left">Cameron Chrisman</h2>
 <p align="left">Senior Aerospace Engineering student at the University of Cincinnati</p>
