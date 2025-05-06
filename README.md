@@ -1,7 +1,7 @@
 ![Visitors](https://komarev.com/ghpvc/?username=chrismcr8743&color=blue)
 
 <h2 align="left">
-  Cameron Chrisman
+  ► Cameron Chrisman
   <img
     src="https://raw.githubusercontent.com/chrismcr8743/chrismcr8743/main/assets/fighter-jet.gif"
     height="50"
