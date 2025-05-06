@@ -1,6 +1,15 @@
 ![Visitors](https://komarev.com/ghpvc/?username=chrismcr8743&color=blue)
 
-<h2 align="left">Cameron Chrisman<img src="https://raw.githubusercontent.com/chrismcr8743/chrismcr8743/main/assets/fighter-jet.gif" height="100" /></h2>
+<h2 align="left">
+  Cameron Chrisman
+  <img
+    src="https://raw.githubusercontent.com/chrismcr8743/chrismcr8743/main/assets/fighter-jet.gif"
+    height="50"
+    style="vertical-align:middle;"
+    alt="fighter jet animation"
+/>
+</h2>
+
 <p align="left">University of Cincinnati senior: Aerospace Engineering major, Materials Science minor</p>
 
 <h2 align="left">📊 GitHub Stats</h2>
