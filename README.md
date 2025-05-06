@@ -1,7 +1,7 @@
 ![Visitors](https://komarev.com/ghpvc/?username=chrismcr8743&color=blue)
 
 <h2 align="left">
-  ► Cameron Chrisman
+  Cameron Chrisman
   <img
     src="https://raw.githubusercontent.com/chrismcr8743/chrismcr8743/main/assets/fighter-jet.gif"
     height="50"
@@ -12,11 +12,11 @@
 
 <p align="left">University of Cincinnati senior: Aerospace Engineering major, Materials Science minor</p>
 
-<h2 align="left">📊 GitHub Stats</h2>
+<h2 align="left">GitHub Stats</h2>
 
 ![chrismcr8743's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chrismcr8743&theme=default&show_icons=true&hide_border=false&layout=compact)
 
-<h2 align="left">🛠️ Tools & Technologies</h2>
+<h2 align="left">Tools & Technologies</h2>
 
 <div align="left">
 
@@ -29,7 +29,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="40" alt="matlab logo"  />
 </div>
 
-<h2 align="left">🔗 Links</h2>
+<h2 align="left">Links</h2>
 
 <div align="left">
   <a href="https://www.linkedin.com/in/chrismcr43" target="_blank" style="text-decoration: none;">
