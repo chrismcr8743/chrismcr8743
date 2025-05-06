@@ -14,9 +14,7 @@
 
 <h2 align="left">📊 GitHub Stats</h2>
 
-<a href="https://github.com/chrismcr8743/chrismcr8743">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chrismcr8743&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
-</a>
+![chrismcr8743's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chrismcr8743&theme=default&show_icons=true&hide_border=false&layout=compact)
 
 <h2 align="left">🛠️ Tools & Technologies</h2>
 
