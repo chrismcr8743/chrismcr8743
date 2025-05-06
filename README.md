@@ -1,5 +1,6 @@
-![Visitors](https://komarev.com/ghpvc/?username=chrismcr8743&color=blue)
-
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=chrismcr8743&color=blue&style=flat-square" alt="Profile views" />
+</p>
 <h2 align="left">
   Cameron Chrisman
   <img
