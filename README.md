@@ -7,10 +7,15 @@
   <img 
     src="https://github.com/user-attachments/assets/9020a598-2767-4d94-9a26-fa863f456705" 
     height="60" 
-    alt="Description of image" 
-/>
+    alt="Fighter jet animation" 
+  />
 </h2>
-<p align="left">University of Cincinnati senior: Aerospace Engineering major, Materials Science minor</p>
+
+<ul align="left">
+  <li>University of Cincinnati senior</li>
+  <li>Major: Aerospace Engineering</li>
+  <li>Minor: Materials Engineering</li>
+</ul>
 
 <h2 align="left">GitHub Stats</h2>
 
