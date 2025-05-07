@@ -5,7 +5,7 @@
 <h2 align="left">
   Cameron Chrisman
   <img 
-    src="https://github.com/user-attachments/assets/089226c2-650e-4a8a-aa9e-7ea48c35e04e" 
+    src="https://github.com/user-attachments/assets/9020a598-2767-4d94-9a26-fa863f456705" 
     height="60" 
     alt="Description of image" 
 />
