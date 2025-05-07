@@ -14,7 +14,7 @@
 
 <h2 align="left">GitHub Stats</h2>
 
-![chrismcr8743's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chrismcr8743&theme=default&show_icons=true&hide_border=false&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chrismcr8743&theme=transparent&layout=compact)
 
 <h2 align="left">Links</h2>
 
