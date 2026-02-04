@@ -17,11 +17,11 @@
   <li>Minor: Materials Engineering</li>
 </ul>
 
-<h2 align="left">GitHub Stats</h2>
+<!-- <h2 align="left">GitHub Stats</h2>
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chrismcr8743&theme=transparent&layout=compact)
 
-<h2 align="left">Links</h2>
+<h2 align="left">Links</h2> -->
 
 <div align="left">
   <a href="https://www.linkedin.com/in/chrismcr43" target="_blank" style="text-decoration: none;">
