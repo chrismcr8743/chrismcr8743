@@ -34,7 +34,11 @@
 </table>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,github,vscode" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/MATLAB-E16737?style=for-the-badge&logo=MathWorks&logoColor=white" />
+  <img src="https://img.shields.io/badge/VBA-5C2D91?style=for-the-badge&logo=visualbasic&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
 </p>
 
 <p align="center">
