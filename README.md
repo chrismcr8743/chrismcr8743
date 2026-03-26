@@ -1,50 +1,61 @@
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
-</div>
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Cam%20Chrisman&fontSize=50&animation=fadeIn&theme=dracula" />
+</p>
 
-###
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=900&lines=Aerospace+Engineering+Senior;Minor+in+Materials+Engineering;Interested+in+stability%2C+controls%2C+and+design;" />
+</p>
 
-<h1 align="left">
-  Cameron Chrisman
-  <img 
-    src="https://github.com/user-attachments/assets/9020a598-2767-4d94-9a26-fa863f456705" 
-    height="60" 
-    alt="Fighter jet animation" 
-  />
-</h1>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/9020a598-2767-4d94-9a26-fa863f456705" height="65" />
+</p>
 
-<ul align="left">
-  <li>University of Cincinnati senior</li>
-  <li>Major: Aerospace Engineering</li>
-  <li>Minor: Materials Engineering</li>
-</ul>
+<table align="center">
+  <tr>
+    <td valign="top" width="50%">
+      
+### About Me
+- University of Cincinnati senior  
+- Aerospace Engineering major  
+- Materials Engineering minor  
+- Interested in aerospace systems and design  
 
-###
+    </td>
+    <td valign="top" width="50%">
 
-<div align="right">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=chrismcr8743&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
+### Current Focus
+- Broad interest in aerospace engineering  
+- Especially interested in control theory  
+- Stability, dynamics, and feedback systems  
+- Applying analysis and coding to engineering problems  
 
-###
+    </td>
+  </tr>
+</table>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/chrismcr8743/chrismcr8743/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/chrismcr8743/chrismcr8743/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/chrismcr8743/chrismcr8743/output/pacman-contribution-graph.svg">
-</picture>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,github,vscode" />
+</p>
 
-###
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=chrismcr8743&show_icons=true&theme=dracula" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs?username=chrismcr8743&layout=compact&theme=dracula" />
+</p>
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/cameron-chrisman-83a1b0222" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.youtube.com/@pillowpets4life393" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
-  </a>
-  <a href="mailto:chrismcr8743@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
-</div>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=chrismcr8743&theme=dracula" />
+</p>
 
-###
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/chrismcr8743/chrismcr8743/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/chrismcr8743/chrismcr8743/output/pacman-contribution-graph.svg">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/chrismcr8743/chrismcr8743/output/pacman-contribution-graph.svg">
+  </picture>
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/chrismcr43"><img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.youtube.com/@pillowpets4life393"><img src="https://img.shields.io/badge/YouTube-Check%20it%20out-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+  <a href="mailto:chrismcr8743@gmail.com"><img src="https://img.shields.io/badge/Gmail-Reach%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
