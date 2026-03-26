@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Cam%20Chrisman&fontSize=50&animation=fadeIn&theme=dracula" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Cam%20Chrisman&fontSize=50&fontColor=ffffff&animation=fadeIn&color=0:ff4da6,100:c94bff" />
 </p>
 
 <p align="center">
