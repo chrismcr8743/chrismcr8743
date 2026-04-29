@@ -28,8 +28,6 @@ Aerospace Engineering graduate from the University of Cincinnati
 
 ---
 
-### Connect
-
 <p align="center">
   <a href="https://www.linkedin.com/in/chrismcr43"><img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://www.youtube.com/@pillowpets4life393"><img src="https://img.shields.io/badge/YouTube-Check%20it%20out-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
